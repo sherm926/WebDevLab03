@@ -4,7 +4,7 @@ from google import genai
 st.title("Geography Chatbot")
 st.write("Ask me anything about countries, capitals, cultures, landmarks, and more!")
 
-API_KEY = "AIzaSyDptZSY1lzN8ARUPdvObvUFcGCqnkGJ_Dc"
+API_KEY = "AIzaSyBlYo6tWkNI4YWIlwoub2COjs2cqWfis2I"
 client = genai.Client(api_key=API_KEY)
 
 if "chat_history" not in st.session_state:
