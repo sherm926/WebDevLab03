@@ -8,7 +8,7 @@ st.title("Welcome to the Country Explorer")
 # TODO: Fill out your team number, section, and team members
 
 st.header("CS 1301")
-st.subheader("Team XX, Web Development - Section A")
+st.subheader("Team 44, Web Development - Section A")
 st.subheader("Steven William Hermann, Joanna George")
 
 
